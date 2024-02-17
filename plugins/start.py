@@ -127,7 +127,7 @@ async def not_joined(client: Client, message: Message):
                              url = client.invitelink),
                        InlineKeyboardButton(
                              text="Channel 2",
-                             url = "https://t.me/+BxC_uWLkYAwxOTE1"),
+                             url = "https://t.me/Ninja_kamui_Hindi_Dubbed"),
         ]
     ]
     try:
